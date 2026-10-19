@@ -1,6 +1,6 @@
 # Site settings
 title: pxq3v4
-baseurl: "/pxq3v4"
+baseurl:
 url: "https://pxq3v4.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
@@ -19,11 +19,11 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: pxq3v4
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/pxq3v4/ 
   pinterest:
   reddit:
   soundcloud:
